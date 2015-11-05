@@ -1,0 +1,16 @@
+body {
+	background: white;
+	font-family: "Times New Roman", serif;
+	padding-bottom: 8px;
+	margin: 0;
+    position: absolute;
+    left: 30px;
+    top: 15px;
+    width: 90%;
+    text-align:left;
+}
+
+
+h1 {
+border-bottom: 1px solid #aaaaaa;
+}
