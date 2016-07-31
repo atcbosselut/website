@@ -27,11 +27,11 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-#about {
+.about {
     margin-top: 110px;
 }
 
-#top-pic {
+.top-pic {
     height: 400px;
 }
 
